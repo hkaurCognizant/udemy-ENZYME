@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* error styling for challenge #2 */
+.error {
+  font-size: 12px;
+  color: red;
+}
+
+/* for challenge #2 and #3 to show / hide error message */
+.hidden {
+  display: none;
+}
